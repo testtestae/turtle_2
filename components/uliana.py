@@ -1,3 +1,3 @@
 import turtle
 
-def elohin():
+def uliana():
